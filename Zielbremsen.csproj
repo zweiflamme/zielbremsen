@@ -44,9 +44,9 @@
     <Reference Include="System.Drawing" />
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
-    <Reference Include="Zusi-Datenausgabe, Version=1.1.6.0, Culture=neutral, processorArchitecture=MSIL">
+    <Reference Include="Zusi-Datenausgabe, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\ZusiTCP interface\Zusi-Datenausgabe.dll</HintPath>
+      <HintPath>ZusiTCP interface\Zusi-Datenausgabe.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
