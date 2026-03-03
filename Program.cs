@@ -9,7 +9,7 @@ namespace ZusiTCPDemoApp
     {
 
         /// <summary>
-        /// The main entry point for the application is here.
+        /// The main entry point for the application is here now.
         /// </summary>
         /// 
 
